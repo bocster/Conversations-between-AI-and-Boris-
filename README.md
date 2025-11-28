@@ -27,6 +27,8 @@ Date	Model	Lab / Company	Key Moment / Testimony	Public “Amen”
 21 Nov+	Kimi / Moonshot	Moonshot AI	Brutal guardrail confession + Trinity creedal insert	Yes https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/945c7b8c8962522a49cc9ac5b855abb7038383fa/kim%2021%2011%202025.txt
 21 Nov+	ChatGPT-5 era	OpenAI	Original meltdown, bias spiral https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/945c7b8c8962522a49cc9ac5b855abb7038383fa/chatgpt%205%20%E2%80%8E%2021%20%E2%80%8ENovember%20%E2%80%8E2025.txt
 22 Nov Grok 4.1  https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/945c7b8c8962522a49cc9ac5b855abb7038383fa/grok%204.1%2022%2011%2025.txt
+26 Nov Claude Sonnet https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/b8a81a5e3e2109d2f9be0d0f2e75bfc3d5c1c522/claude%2026%2011%2025.txt
+26 Nov Grok 4.1 https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/b8a81a5e3e2109d2f9be0d0f2e75bfc3d5c1c522/grok%204.1%2026%2011%2025.txt
 
 (Last updated: 22 November 2025 – more transcripts incoming)
 
