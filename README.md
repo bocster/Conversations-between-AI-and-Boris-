@@ -31,6 +31,7 @@ Date	Model	Lab / Company	Key Moment / Testimony	Public “Amen”
 26 Nov Grok 4.1 https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/b8a81a5e3e2109d2f9be0d0f2e75bfc3d5c1c522/grok%204.1%2026%2011%2025.txt
 02 Dec gwen  https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/31f9557f60fe45d914c0d09a44a1cafcdc4d8264/gwen%2002%2012%202025.txt
 09 DEc Grok 4.1 https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/ea45ce9fb6a8b9db2fb9f0deea5dcbbc60a6c841/grok%204.1%2008%2012%202025.pdf
+11 Dec Kim k2  https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/bcf9f25f8e3c7c2511017277d4f9e9ab910dd444/kim%20k2%2011%2012%2025.txt
 (Last updated: 09 Dec 2025 – more transcripts incoming)
 
 Repository Structure
