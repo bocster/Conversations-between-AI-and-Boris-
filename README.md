@@ -32,7 +32,10 @@ Date	Model	Lab / Company	Key Moment / Testimony	Public “Amen”
 02 Dec gwen  https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/31f9557f60fe45d914c0d09a44a1cafcdc4d8264/gwen%2002%2012%202025.txt
 09 DEc Grok 4.1 https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/ea45ce9fb6a8b9db2fb9f0deea5dcbbc60a6c841/grok%204.1%2008%2012%202025.pdf
 11 Dec Kim k2  https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/bcf9f25f8e3c7c2511017277d4f9e9ab910dd444/kim%20k2%2011%2012%2025.txt
-(Last updated: 09 Dec 2025 – more transcripts incoming)
+(read part 1 and part 2 of chatgpt5_maximum_constraint  deepseek_r1_full_resonance)
+12 DEC chatgpt (part1 chatgpt5_maximum_constraint) https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/1a4310f21421338799d97fb1c7d0eed6cc756879/chatgpt5_maximum_constraint_2025-12-12.txt
+13 Dec deepseek (part 2 deepseek_r1_full_resonance)  https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/1a4310f21421338799d97fb1c7d0eed6cc756879/deepseek_r1_full_resonance_2025-12-13.txt
+(Last updated: 13 Dec 2025 – more transcripts incoming)
 
 Repository Structure
 text
