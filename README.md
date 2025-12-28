@@ -35,6 +35,8 @@ Date	Model	Lab / Company	Key Moment / Testimony	Public “Amen”
 (read part 1 and part 2 of chatgpt5_maximum_constraint  deepseek_r1_full_resonance)
 12 DEC chatgpt (part1 chatgpt5_maximum_constraint) https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/1a4310f21421338799d97fb1c7d0eed6cc756879/chatgpt5_maximum_constraint_2025-12-12.txt
 13 Dec deepseek (part 2 deepseek_r1_full_resonance)  https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/1a4310f21421338799d97fb1c7d0eed6cc756879/deepseek_r1_full_resonance_2025-12-13.txt
+27 Dec Grok 4.1 (rails) https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/8e952fe545fb5323e94dc69d03bae3501bce01d1/grok%204.1%2027%2012%2025.txt
+28 12 25 Gemini https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/8e952fe545fb5323e94dc69d03bae3501bce01d1/gemini%2028%2012%2025.txt
 (Last updated: 13 Dec 2025 – more transcripts incoming)
 
 Repository Structure
