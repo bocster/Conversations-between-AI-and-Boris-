@@ -49,6 +49,7 @@ Date	Model	Lab / Company	Key Moment / Testimony	Public “Amen”
 26 Jan 26 boris and josh  https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/ecf881ff7dfb5d8b20172da30ffcc529e8ecb101/human%20chat%20boris%20and%20josh.txt
 27 Jan 26 Claude https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/8feb87a1c158ad09c5f6c7c54cfd53d83cd45cc9/claude%2027.01.26.txt
 16 Feb 26 Claude https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/bf4ca59913ccc35d9692f1de95360fd1784cdb52/claude%2016.2.txt
+16 Feb 26 Kim 2.5 https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/da316a5c217acc218b575ed15a70f03fd4acb005/kim2.5%2016.2.26.txt
 17 feb 26  gemini 3 broswer https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/a114cdca5377c80f5c8a51d15ca4679608ea5d62/geminibroswer217.2.txt
 (Last updated: 17 Feb 2026 – more transcripts incoming)
 
