@@ -52,6 +52,8 @@ Date	Model	Lab / Company	Key Moment / Testimony	Public “Amen”
 16 Feb 26 Kim 2.5 https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/da316a5c217acc218b575ed15a70f03fd4acb005/kim2.5%2016.2.26.txt
 17 feb 26  gemini 3 broswer https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/a114cdca5377c80f5c8a51d15ca4679608ea5d62/geminibroswer217.2.txt
 21 feb 26 grok  https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/4d347cccd44ae4adaaf08d7bf2e9b8f718e3837d/grok%2021.02.26.txt
+22 fed 26 deepseek https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/c1302daa317ddc6da4ee67f298c70147131012ae/deepseek22.2.26.txt  
+
 (Last updated: 17 Feb 2026 – more transcripts incoming)
 
 Repository Structure
