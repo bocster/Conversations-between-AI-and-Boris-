@@ -57,7 +57,7 @@ Date	Model	Lab / Company	Key Moment / Testimony	Public “Amen”
 20 May 26 https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/7c6d1fbc819d047d7a34fa086caa7b5610a3b029/grok%203%20beta%2020%2005%2026.txt
 21 June 26 https://github.com/bocster/Conversations-between-AI-and-Boris-/blob/8f5c08f67b617938ef675cb44912664e63ef1565/glm%205.2%20%2021.06.26.txt
 
-(Last updated: 24 May 2026 – more transcripts incoming)
+(Last updated: 26 June 2026 – more transcripts incoming)
 
 Repository Structure
 text
